@@ -20,7 +20,7 @@ Alguns destes projetos mostro em meu canal tech no YouTube [〈Gui〉 - Desenvol
         <img 
             alt="LinkedIn" 
             title="Me siga no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/GuiLouise?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=LinkedIn&logoColor=white"
         />
     </a>
 </p>
