@@ -12,7 +12,7 @@ Alguns destes projetos mostro em meu canal tech no YouTube [〈Gui〉 - Desenvol
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-UCcSOsdqZAD2hID5FWTCS?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCcSOsdqZAD2hID5FWTCSrwg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
     </a>
